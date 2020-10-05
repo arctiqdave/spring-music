@@ -1,7 +1,7 @@
 [
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Daniya l",
+        "artist": "Daniyal ",
         "title": "Nevermind",
         "releaseYear": "1991",
         "genre": "Rock"
