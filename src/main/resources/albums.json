@@ -1,205 +1,290 @@
 [
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Waqas",
-        "title": "Nevermind",
+        "artist": "CI/CD",
+        "title": "Back in k8s",
         "releaseYear": "1991",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Ben",
-        "title": "Pet Sounds",
-        "releaseYear": "1966",
+        "artist": "Guided by Containers",
+        "title": "Life After Test Automation",
+        "releaseYear": "1996",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Aly",
-        "title": "What's Going On",
-        "releaseYear": "1971",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Blair",
-        "title": "Are You Experienced?",
-        "releaseYear": "1967",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Kyle",
-        "title": "The Joshua Tree",
-        "releaseYear": "1987",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Beatles",
-        "title": "Arctiq",
-        "releaseYear": "1969",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Google",
-        "title": "Rumours",
-        "releaseYear": "1977",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Elvis Presley",
-        "title": "Sun Sessions",
-        "releaseYear": "1976",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Michael Jackson",
-        "title": "Thriller",
-        "releaseYear": "1982",
+        "artist": "Britney WebSphere",
+        "title": "Namespace Me Baby One More Time",
+        "releaseYear": "2000",
         "genre": "Pop"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Rolling Stones",
-        "title": "Exile on Main Street",
-        "releaseYear": "1972",
-        "genre": "Rock"
+        "artist": "KubecontrolleR",
+        "title": "Master of Kubes",
+        "releaseYear": "1984",
+        "genre": "Metal"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Bruce Springsteen",
-        "title": "Born to Run",
-        "releaseYear": "1975",
-        "genre": "Rock"
+        "artist": "SysAdmin of a Down",
+        "title": "Rise of the Pods",
+        "releaseYear": "1987",
+        "genre": "Metal"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Clash",
-        "title": "London Calling",
-        "releaseYear": "1980",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Eagles",
-        "title": "Hotel California",
-        "releaseYear": "1976",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Led Zeppelin",
-        "title": "Led Zeppelin",
-        "releaseYear": "1969",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Led Zeppelin",
-        "title": "IV",
-        "releaseYear": "1971",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Police",
-        "title": "Synchronicity",
-        "releaseYear": "1983",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "U2",
-        "title": "Achtung Baby",
+        "artist": "Artifact",
+        "title": "Smells Like SysAdmin Spirit",
         "releaseYear": "1991",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Rolling Stones",
-        "title": "Let it Bleed",
-        "releaseYear": "1969",
+        "artist": "Faith No DevOps",
+        "title": "Angel k8s",
+        "releaseYear": "1989",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Beatles",
-        "title": "Rubber Soul",
-        "releaseYear": "1965",
+        "artist": "Black Eyed Pods",
+        "title": "Boom Boom Pod",
+        "releaseYear": "2005",
+        "genre": "Pop"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Podtera",
+        "title": "Far Beyond DevOps",
+        "releaseYear": "1989",
+        "genre": "Metal"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Kubes in Chains",
+        "title": "Ichapod Crane",
+        "releaseYear": "1996",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Ramones",
-        "title": "The Ramones",
-        "releaseYear": "1976",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Queen",
-        "title": "A Night At The Opera",
+        "artist": "Block Events Pods",
+        "title": "Where’s the Load?",
         "releaseYear": "1975",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Boston",
-        "title": "Don't Look Back",
-        "releaseYear": "1978",
+        "artist": "Pink Mesh",
+        "title": "Wish You Were Istio",
+        "releaseYear": "1975",
         "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "BB King",
-        "title": "Singin' The Blues",
-        "releaseYear": "1956",
-        "genre": "Blues"
+        "artist": "DaemonSet MazelTov",
+        "title": "Looking for FreeMem",
+        "releaseYear": "1976",
+        "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Albert King",
-        "title": "Born Under A Bad Sign",
+        "artist": "System of a Node",
+        "title": "Highway to Manifest",
+        "releaseYear": "1969",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Replicastein",
+        "title": "Ich liebe Automatisierung",
+        "releaseYear": "2003",
+        "genre": "Metal"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Nine Inch Nodes",
+        "title": "The Downward Pipeline",
+        "releaseYear": "1998",
+        "genre": "Metal"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "NOutOfSync",
+        "title": "Music of My Healthcheck",
+        "releaseYear": "1997",
+        "genre": "Pop"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Smashing Pods",
+        "title": "ServiceSelector Dreams",
+        "releaseYear": "1998",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Podgarden",
+        "title": "Supercontainer(unknown)",
+        "releaseYear": "1991",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Blockstreet Nodes",
+        "title": "As Long as You OOM Me",
+        "releaseYear": "1999",
+        "genre": "Pop"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Pods Against the Virtual Machines",
+        "title": "Battle for Control Plane",
+        "releaseYear": "1997",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Container People",
+        "title": "RBAC",
+        "releaseYear": "1978",
+        "genre": "Pop"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Node Young",
+        "title": "Mirror Pod",
         "releaseYear": "1967",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "The Helm Maidens",
+        "title": "Breaking the Labels",
+        "releaseYear": "1978",
+        "genre": "Metal"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Pod Zombie",
+        "title": "Daemonset Phenomenon",
+        "releaseYear": "1993",
+        "genre": "Metal"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Chris Cordonell",
+        "title": "Ephemeral Morning",
+        "releaseYear": "1998",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Controller Controller",
+        "title": "Legacy",
+        "releaseYear": "2008",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Replicahead",
+        "title": "OK Kubernetes",
+        "releaseYear": "1995",
         "genre": "Blues"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Muddy Waters",
-        "title": "Folk Singer",
-        "releaseYear": "1964",
-        "genre": "Blues"
+        "artist": "Podsmack",
+        "title": "The Other Node",
+        "releaseYear": "2002",
+        "genre": "Rock"
+    },     
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "The APIs of Awesome",
+        "title": "Four CRUDs",
+        "releaseYear": "1998",
+        "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Fabulous Thunderbirds",
-        "title": "Rock With Me",
-        "releaseYear": "1979",
-        "genre": "Blues"
+        "artist": "Pool",
+        "title": "10000 Nodes",
+        "releaseYear": "1994",
+        "genre": "Metal"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Robert Johnson",
-        "title": "King of the Delta Blues",
-        "releaseYear": "1961",
-        "genre": "Blues"
+        "artist": "A Perfect Cluster",
+        "title": "Meta de Noms",
+        "releaseYear": "1999",
+        "genre": "Metal"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Stevie Ray Vaughan",
-        "title": "Texas Flood",
-        "releaseYear": "1983",
-        "genre": "Blues"
+        "artist": "30 Seconds to Deploy",
+        "title": "This is DevOps",
+        "releaseYear": "2010",
+        "genre": "Rock"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Stevie Ray Vaughan",
-        "title": "Couldn't Stand The Weather",
-        "releaseYear": "1984",
-        "genre": "Blues"
+        "artist": "Queens of the Ops Age",
+        "title": "Songs for the Devs",
+        "releaseYear": "2006",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Arctiq Bearsies",
+        "title": "Deploy it and See",
+        "releaseYear": "2017",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Queens of the Ops Age",
+        "title": "Era Virt-Aris",
+        "releaseYear": "2002",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Less Than K8s",
+        "title": "Limits & Reservations",
+        "releaseYear": "1997",
+        "genre": "Punk"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Clusterwise",
+        "title": "Land of the FreeMemory",
+        "releaseYear": "1998",
+        "genre": "Punk"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "CLusterdeth",
+        "title": "Nodes Sell... but Who's Buying?",
+        "releaseYear": "1987",
+        "genre": "Metal"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Pods n' Roses",
+        "title": "CTL Your Illusion I & II",
+        "releaseYear": "1992",
+        "genre": "Rock"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "The Dockertours",
+        "title": "Control Plane Unplugged from New York",
+        "releaseYear": "1993",
+        "genre": "Rock"
     }
 ]
+
